@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-24T15:04:02 IST" name="Suite" finished-at="2024-01-24T15:04:56 IST" duration-ms="54675">
+    <groups>
+      <group name="ecom">
+        <method signature="To_lunch_Ajio.ajioApp()[pri:0, instance:testScript.To_lunch_Ajio@298a5e20]" name="ajioApp" class="testScript.To_lunch_Ajio"/>
+        <method signature="To_lunch_DemoWebshop.demoWebshop()[pri:0, instance:testScript.To_lunch_DemoWebshop@2e385cce]" name="demoWebshop" class="testScript.To_lunch_DemoWebshop"/>
+        <method signature="To_lunch_Flipcart.flipcart()[pri:0, instance:testScript.To_lunch_Flipcart@2a7f1f10]" name="flipcart" class="testScript.To_lunch_Flipcart"/>
+      </group> <!-- ecom -->
+      <group name="beauty">
+        <method signature="To_Iunch_Lorealparis.lorealparis()[pri:0, instance:testScript.To_Iunch_Lorealparis@2ddc9a9f]" name="lorealparis" class="testScript.To_Iunch_Lorealparis"/>
+      </group> <!-- beauty -->
+      <group name="mobile">
+        <method signature="To_lunch_Apple.apple()[pri:0, instance:testScript.To_lunch_Apple@1ffaf86]" name="apple" class="testScript.To_lunch_Apple"/>
+      </group> <!-- mobile -->
+    </groups>
+    <test started-at="2024-01-24T15:04:02 IST" name="Test" finished-at="2024-01-24T15:04:56 IST" duration-ms="54675">
+      <class name="testScript.To_Iunch_Lorealparis">
+        <test-method signature="lorealparis()[pri:0, instance:testScript.To_Iunch_Lorealparis@2ddc9a9f]" started-at="2024-01-24T15:04:02 IST" name="lorealparis" finished-at="2024-01-24T15:04:19 IST" duration-ms="17223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lorealparis -->
+      </class> <!-- testScript.To_Iunch_Lorealparis -->
+      <class name="testScript.To_lunch_DemoWebshop">
+        <test-method signature="demoWebshop()[pri:0, instance:testScript.To_lunch_DemoWebshop@2e385cce]" started-at="2024-01-24T15:04:02 IST" name="demoWebshop" finished-at="2024-01-24T15:04:19 IST" duration-ms="17095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoWebshop -->
+      </class> <!-- testScript.To_lunch_DemoWebshop -->
+      <class name="testScript.To_lunch_Apple">
+        <test-method signature="apple()[pri:0, instance:testScript.To_lunch_Apple@1ffaf86]" started-at="2024-01-24T15:04:02 IST" name="apple" finished-at="2024-01-24T15:04:17 IST" duration-ms="15208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+      </class> <!-- testScript.To_lunch_Apple -->
+      <class name="testScript.To_lunch_Ajio">
+        <test-method signature="ajioApp()[pri:0, instance:testScript.To_lunch_Ajio@298a5e20]" started-at="2024-01-24T15:04:02 IST" name="ajioApp" finished-at="2024-01-24T15:04:56 IST" duration-ms="54530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ajioApp -->
+      </class> <!-- testScript.To_lunch_Ajio -->
+      <class name="testScript.To_lunch_Flipcart">
+        <test-method signature="flipcart()[pri:0, instance:testScript.To_lunch_Flipcart@2a7f1f10]" started-at="2024-01-24T15:04:02 IST" name="flipcart" finished-at="2024-01-24T15:04:19 IST" duration-ms="17304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipcart -->
+      </class> <!-- testScript.To_lunch_Flipcart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
